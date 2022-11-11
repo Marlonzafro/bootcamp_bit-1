@@ -1,0 +1,59 @@
+.miNavbar {
+    background-color: #797979;
+    background-image: url(../../../../assets/img/dentist-2530990_1280.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content:  space-between;
+    align-items: center;
+    padding:  150px 0;
+
+}
+
+.estiloOpciones {
+    list-style-type: none;
+}
+
+.estiloOpciones li {
+    display: inline;
+}
+
+.estiloOpciones li button {
+    display: inline;
+    width: 160px;
+    background: #a0a0a0;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 15px;
+    white-space: nowrap;
+    border: none;
+    cursor: pointer
+}
+
+.texto {}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#botonSesion {
+    width: 250px ! important;
+    border-radius: 15px;
+    margin-right: 15px;
+}
+
+#botonSesion {
+    color: #781818;
+    font-weight: bold;
+    padding: 15px;
+    white-space: nowrap;
+    border: none;
+    cursor: pointer;
+    background: #aed8f1;
+    
+}
+
