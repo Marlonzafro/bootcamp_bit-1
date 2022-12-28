@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(225, 225, 225);
+}
+
+.logo{
+    height: 70px;
+    margin: -20px;
+}
+
+.card-text{
+    justify-content: center;
+}
+
+.textoYlogo{
+    padding-top: 150px;
+}
+
+.foto{
+    padding-inline-start: 120px;
+}
+
+.logoytexto{
+   
+    padding-left: 12%;
+    padding-top: 7%;
+}
+
+.pepe{
+    height: 10px;
+}
+
+.altocarta{
+    height: 200px;
+}
+
+.altocarta2{
+    height: 200px;
+}
+
+.altocarta3{
+    height: 200px;
+}
+
+.margenbox{
+    margin-left: 15%;
+    margin-top: 10%;
+    
+}
+
+.acceso{
+    background-color: rgb(255, 255, 255);
+    width: 49%;
+    height: 54%;
+    padding-top: 3px;
+    border-radius: 2%;
+    justify-content: center;    
+}
+
+.form-control{
+    width: 170%;
+    margin: 4%;
+    margin: -2px;
+    
+}
+
+.linea1{
+    width: 170%;
+   
+}
+
+.verde{
+    width: 85%;
+}
+
+.azul{
+    width: 170%;
+    padding: 3%;
+    font-size: 20px;
+    text-align: center;
+}

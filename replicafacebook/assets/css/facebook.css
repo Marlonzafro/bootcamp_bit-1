@@ -1,0 +1,106 @@
+body {
+    background-color: rgb(225, 225, 225);
+}
+
+
+
+.logo{
+    height: 70px;
+    margin: -20px;
+}
+
+.card-text{
+    justify-content: center;
+}
+
+.textoYlogo{
+    padding-top: 150px;
+}
+
+.foto{
+    padding-inline-start: 120px;
+}
+
+.logoytexto{
+   
+    padding-left: 12%;
+    padding-top: 7%;
+}
+
+.pepe{
+    height: 10px;
+}
+
+.altocarta{
+    height: 200px;
+}
+
+.altocarta2{
+    height: 200px;
+}
+
+.altocarta3{
+    height: 200px;
+}
+
+.margenbox{
+    margin-left: 15%;
+    margin-top: 10%;
+    
+}
+
+.container{
+    max-width: 1080px;
+    margin-top: 9%;
+    
+}
+
+
+.formulario{
+    background-color: #ffff;
+    border-radius: 15px;
+    max-width: 400px;
+   padding-top: 1%;
+   
+    
+
+    
+    
+}
+
+.acceso{
+    background-color: rgb(255, 255, 255);
+    height: 54%;
+    border-radius: 2%;
+    justify-content: center;    
+}
+
+.form-control{
+    width: 80%;
+    margin: 4%;
+    margin: 2px;
+    
+}
+
+.linea1{
+    width: 70%;
+   
+}
+
+.verde{
+    width: 80%;
+}
+
+.azul{
+    
+    width: 80%;
+    padding: 2%;
+    font-size: 20px;
+    text-align: center;
+}
+
+.creaCuenta{
+    font-size: small;
+    justify-content: center;
+
+}
